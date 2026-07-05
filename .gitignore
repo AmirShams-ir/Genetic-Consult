@@ -1,0 +1,61 @@
+## Visual Studio
+
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.VC.db
+*.pdb
+*.aps
+
+## Rider
+
+.idea/
+
+## ReSharper
+
+_ReSharper*/
+*.DotSettings.user
+
+## NuGet
+
+packages/
+*.nupkg
+
+## Logs
+
+*.log
+
+## Windows
+
+Thumbs.db
+Desktop.ini
+
+## Database
+
+*.ldb
+
+## Backup
+
+*.bak
+
+## Temporary
+
+*.tmp
+*.temp
+
+## Publish
+
+publish/
+
+## Zip
+
+*.zip

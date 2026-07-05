@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+
+title: Genetic Counseling System
+
+message: >
+  If you use this software, please cite it using the metadata below.
+
+type: software
+
+authors:
+
+  - family-names: Shams
+    given-names: Amir
+    affiliation: Shahrekord University
+
+license: Apache-2.0
+
+repository-code: https://github.com/AmirShams-ir/Genetic-Counseling-System
+
+abstract: >
+  Genetic Counseling System is a professional software platform
+  developed for genetic counseling centers.
+
+keywords:
+
+  - genetics
+
+  - genetic counseling
+
+  - medical software
+
+  - vb.net
+
+version: 1.0.0
+
+date-released: 2026

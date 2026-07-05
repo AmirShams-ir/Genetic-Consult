@@ -1,0 +1,375 @@
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\bin\Debug\Genetic.exe.config
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\bin\Debug\Genetic.exe
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\bin\Debug\Genetic.pdb
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\bin\Debug\Genetic.xml
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.exe
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.xml
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.pdb
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+c:\users\amir\documents\visual studio 2015\Projects\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\Genetic.exe.config
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\Genetic.application
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\Genetic.exe
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\Genetic.pdb
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\Genetic.xml
+C:\Users\Amir\Desktop\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.application
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.exe
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.xml
+C:\Users\Amir\Desktop\Genetic\Genetic\obj\Debug\Genetic.pdb
+D:\Project\Genetic\Genetic\bin\Debug\Genetic.exe.config
+D:\Project\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+D:\Project\Genetic\Genetic\bin\Debug\Genetic.application
+D:\Project\Genetic\Genetic\bin\Debug\Genetic.exe
+D:\Project\Genetic\Genetic\bin\Debug\Genetic.pdb
+D:\Project\Genetic\Genetic\bin\Debug\Genetic.xml
+D:\Project\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.Form2.resources
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+D:\Project\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.application
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.exe
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.xml
+D:\Project\Genetic\Genetic\obj\Debug\Genetic.pdb
+D:\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.config
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.xml
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.pdb
+D:\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+D:\Genetic\Genetic\Genetic\bin\Debug\Genetic.application
+D:\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe
+D:\Genetic\Genetic\Genetic\bin\Debug\Genetic.pdb
+D:\Genetic\Genetic\Genetic\bin\Debug\Genetic.xml
+D:\Genetic\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Form2.resources
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+D:\Genetic\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+D:\Genetic\Genetic\Genetic\obj\Debug\Genetic.application
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.config
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.xml
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.pdb
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.application
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.pdb
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.xml
+F:\Backup\15\Genetic\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Form2.resources
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+F:\Backup\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.application
+D:\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.config
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.xml
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.pdb
+D:\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+D:\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.application
+D:\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe
+D:\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.pdb
+D:\15\Genetic\Genetic\Genetic\bin\Debug\Genetic.xml
+D:\15\Genetic\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Form2.resources
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+D:\15\Genetic\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+D:\15\Genetic\Genetic\Genetic\obj\Debug\Genetic.application
+E:\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.config
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.xml
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.pdb
+E:\Genetic\Genetic\Genetic\bin\Debug\Database.mdb
+E:\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+E:\Genetic\Genetic\Genetic\bin\Debug\Genetic.application
+E:\Genetic\Genetic\Genetic\bin\Debug\Genetic.exe
+E:\Genetic\Genetic\Genetic\bin\Debug\Genetic.pdb
+E:\Genetic\Genetic\Genetic\bin\Debug\Genetic.xml
+E:\Genetic\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+E:\Genetic\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.application
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.users1.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Diagnose.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Consult.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.staffs1.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.staffs2.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.users2.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.doctors1.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.doctors2.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.Dic.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.print.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.backup.resources
+E:\Genetic\Genetic\Genetic\bin\Debug\hm_farsicalendar.dll
+E:\Genetic\Genetic\Genetic\bin\Debug\hm_farsicalendar.pdb
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.calendar.resources
+E:\Genetic\Genetic\Genetic\obj\Debug\Genetic.convert.resources
+E:\Genetic\Genetic\bin\Debug\Genetic.exe.config
+E:\Genetic\Genetic\obj\Debug\Genetic.exe
+E:\Genetic\Genetic\obj\Debug\Genetic.xml
+E:\Genetic\Genetic\obj\Debug\Genetic.pdb
+E:\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+E:\Genetic\Genetic\obj\Debug\Genetic.backup.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.calendar.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.convert.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.Diagnose.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.Consult.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.dictionary.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.doctors1.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.doctors2.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.print.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.staffs1.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.staffs2.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.users1.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.users2.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+E:\Genetic\Genetic\bin\Debug\Database.mdb
+E:\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+E:\Genetic\Genetic\bin\Debug\Genetic.application
+E:\Genetic\Genetic\bin\Debug\Genetic.exe
+E:\Genetic\Genetic\bin\Debug\Genetic.pdb
+E:\Genetic\Genetic\bin\Debug\Genetic.xml
+E:\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+E:\Genetic\Genetic\bin\Debug\hm_farsicalendar.pdb
+E:\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+E:\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+E:\Genetic\Genetic\obj\Debug\Genetic.application
+E:\Genetic\Genetic\obj\Debug\Genetic.calculator.resources
+E:\Genetic\Genetic\obj\Debug\Interop.WIA.dll
+E:\Genetic\Genetic\obj\Debug\Genetic.vbproj.ResolveComReference.cache
+E:\Genetic\Genetic\obj\Debug\Genetic.scan.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.prescription.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.sms.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.email.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.info.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.laws.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.learn.resources
+E:\Genetic\Genetic\obj\Debug\Genetic.privacy.resources
+F:\Genetic\Genetic\bin\Debug\Genetic.exe.config
+F:\Genetic\Genetic\obj\Debug\Interop.WIA.dll
+F:\Genetic\Genetic\obj\Debug\Genetic.vbproj.ResolveComReference.cache
+F:\Genetic\Genetic\obj\Debug\Genetic.exe
+F:\Genetic\Genetic\obj\Debug\Genetic.xml
+F:\Genetic\Genetic\obj\Debug\Genetic.pdb
+F:\Genetic\Genetic\bin\Debug\Database.mdb
+F:\Genetic\Genetic\bin\Debug\Genetic.exe.manifest
+F:\Genetic\Genetic\bin\Debug\Genetic.application
+F:\Genetic\Genetic\bin\Debug\Genetic.exe
+F:\Genetic\Genetic\bin\Debug\Genetic.pdb
+F:\Genetic\Genetic\bin\Debug\Genetic.xml
+F:\Genetic\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+F:\Genetic\Genetic\bin\Debug\hm_farsicalendar.pdb
+F:\Genetic\Genetic\bin\Debug\Interop.WIA.dll
+F:\Genetic\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+F:\Genetic\Genetic\obj\Debug\Genetic.backup.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.calculator.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.calendar.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.convert.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.Diagnose.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.Consult.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.dictionary.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.doctors1.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.doctors2.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.email.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.info.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.laws.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.learn.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.Login.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.Resources.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.prescription.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.print.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.privacy.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.scan.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.sms.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.staffs1.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.staffs2.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.users1.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.users2.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+F:\Genetic\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+F:\Genetic\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+F:\Genetic\Genetic\obj\Debug\Genetic.exe.manifest
+F:\Genetic\Genetic\obj\Debug\Genetic.application
+F:\Genetic 3.5\Genetic\bin\Debug\Genetic.exe.config
+F:\Genetic 3.5\Genetic\obj\Debug\Interop.WIA.dll
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.vbproj.ResolveComReference.cache
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.exe
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.xml
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.pdb
+F:\Genetic 3.5\Genetic\bin\Debug\Database.mdb
+F:\Genetic 3.5\Genetic\bin\Debug\Genetic.exe.manifest
+F:\Genetic 3.5\Genetic\bin\Debug\Genetic.application
+F:\Genetic 3.5\Genetic\bin\Debug\Genetic.exe
+F:\Genetic 3.5\Genetic\bin\Debug\Genetic.pdb
+F:\Genetic 3.5\Genetic\bin\Debug\Genetic.xml
+F:\Genetic 3.5\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+F:\Genetic 3.5\Genetic\bin\Debug\hm_farsicalendar.pdb
+F:\Genetic 3.5\Genetic\bin\Debug\Interop.WIA.dll
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.backup.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.calculator.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.calendar.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.convert.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.Diagnose.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.Consult.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.dictionary.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.doctors1.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.doctors2.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.email.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.Form1.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.info.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.laws.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.learn.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.Login.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.Resources.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.prescription.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.print.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.privacy.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.scan.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.sms.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.staffs1.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.staffs2.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.users1.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.users2.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+F:\Genetic 3.5\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.exe.manifest
+F:\Genetic 3.5\Genetic\obj\Debug\Genetic.application
+E:\Genetic 3.5\Genetic\bin\Debug\Genetic.exe.config
+E:\Genetic 3.5\Genetic\obj\Debug\Interop.WIA.dll
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.vbproj.ResolveComReference.cache
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.exe
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.xml
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.pdb
+E:\Genetic 3.5\Genetic\bin\Debug\Database.mdb
+E:\Genetic 3.5\Genetic\bin\Debug\Genetic.exe.manifest
+E:\Genetic 3.5\Genetic\bin\Debug\Genetic.application
+E:\Genetic 3.5\Genetic\bin\Debug\Genetic.exe
+E:\Genetic 3.5\Genetic\bin\Debug\Genetic.pdb
+E:\Genetic 3.5\Genetic\bin\Debug\Genetic.xml
+E:\Genetic 3.5\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+E:\Genetic 3.5\Genetic\bin\Debug\hm_farsicalendar.pdb
+E:\Genetic 3.5\Genetic\bin\Debug\Interop.WIA.dll
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.backup.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.calculator.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.calendar.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.convert.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.Diagnose.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.Consult.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.dictionary.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.doctors1.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.doctors2.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.email.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.Form1.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.info.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.laws.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.learn.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.Login.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.Resources.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.prescription.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.print.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.privacy.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.scan.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.sms.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.staffs1.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.staffs2.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.users1.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.users2.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+E:\Genetic 3.5\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.exe.manifest
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.application
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.omim.resources
+E:\Genetic 3.5\Genetic\obj\Debug\Genetic.pedigree.resources
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Genetic.exe.config
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Interop.WIA.dll
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.vbproj.ResolveComReference.cache
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.exe
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.xml
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.pdb
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.vbprojResolveAssemblyReference.cache
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.backup.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.calculator.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.calendar.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.convert.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.Consult.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.dictionary.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.doctors1.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.email.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.Form1.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.info.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.laws.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.learn.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.Login.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.Resources.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.pedigree.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.prescription.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.print.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.privacy.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.scan.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.sms.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.staffs1.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.users1.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.Login.fa-IR.resources
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.vbproj.GenerateResource.Cache
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Database.mdb
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Genetic.exe.manifest
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Genetic.application
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Genetic.exe
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Genetic.pdb
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Genetic.xml
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\fa-IR\Genetic.resources.dll
+D:\Projects\Genetic-Counseling-System\Genetic\bin\Debug\Interop.WIA.dll
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\fa-IR\Genetic.resources.dll
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.exe.manifest
+D:\Projects\Genetic-Counseling-System\Genetic\obj\Debug\Genetic.application

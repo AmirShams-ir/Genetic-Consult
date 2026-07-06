@@ -1,6 +1,8 @@
 # Genetic Counseling System
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Language](https://img.shields.io/badge/VB.NET-.NET_Framework-purple)
 
 A professional software platform for **Genetic Counseling**, patient
 management, pedigree analysis and genetic consultation.
